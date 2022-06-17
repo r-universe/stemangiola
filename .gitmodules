@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "tidygate"]
+	path = tidygate
+	url = https://github.com/stemangiola/tidygate
+	shallow = true
+	registered = true
+[submodule "tidyHeatmap"]
+	path = tidyHeatmap
+	url = https://github.com/stemangiola/tidyheatmap
+	shallow = true
+	registered = true
+[submodule "tidyseurat"]
+	path = tidyseurat
+	url = https://github.com/stemangiola/tidyseurat
+	shallow = true
+	registered = true

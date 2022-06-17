@@ -1,0 +1,14 @@
+[
+  {
+    "package": "tidygate",
+    "oncran": true
+  },
+  {
+    "package": "tidyHeatmap",
+    "oncran": true
+  },
+  {
+    "package": "tidyseurat",
+    "oncran": true
+  }
+]
