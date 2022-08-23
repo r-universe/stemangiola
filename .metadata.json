@@ -10,5 +10,11 @@
   {
     "package": "tidyseurat",
     "oncran": true
+  },
+  {
+    "package": "ppcseq"
+  },
+  {
+    "package": "tidySingleCellExperiment"
   }
 ]
