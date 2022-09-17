@@ -23,11 +23,6 @@
 	url = https://github.com/stemangiola/ppcseq
 	shallow = true
 	registered = true
-[submodule "sccomp"]
-	path = sccomp
-	url = https://github.com/stemangiola/sccomp
-	shallow = true
-	registered = true
 [submodule "tidybulk"]
 	path = tidybulk
 	url = https://github.com/stemangiola/tidybulk
