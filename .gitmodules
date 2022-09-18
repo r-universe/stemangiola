@@ -18,23 +18,3 @@
 	url = https://github.com/stemangiola/tidyseurat
 	shallow = true
 	registered = true
-[submodule "ppcseq"]
-	path = ppcseq
-	url = https://github.com/stemangiola/ppcseq
-	shallow = true
-	registered = true
-[submodule "tidybulk"]
-	path = tidybulk
-	url = https://github.com/stemangiola/tidybulk
-	shallow = true
-	registered = true
-[submodule "tidySingleCellExperiment"]
-	path = tidySingleCellExperiment
-	url = https://github.com/stemangiola/tidysinglecellexperiment
-	shallow = true
-	registered = true
-[submodule "tidySummarizedExperiment"]
-	path = tidySummarizedExperiment
-	url = https://github.com/stemangiola/tidysummarizedexperiment
-	shallow = true
-	registered = true

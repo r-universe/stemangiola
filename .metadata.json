@@ -10,17 +10,5 @@
   {
     "package": "tidyseurat",
     "oncran": true
-  },
-  {
-    "package": "ppcseq"
-  },
-  {
-    "package": "tidybulk"
-  },
-  {
-    "package": "tidySingleCellExperiment"
-  },
-  {
-    "package": "tidySummarizedExperiment"
   }
 ]
