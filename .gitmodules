@@ -18,3 +18,8 @@
 	url = https://github.com/stemangiola/tidyseurat
 	shallow = true
 	registered = true
+[submodule "tidySummarizedExperiment"]
+	path = tidySummarizedExperiment
+	url = https://github.com/stemangiola/tidysummarizedexperiment
+	shallow = true
+	registered = true

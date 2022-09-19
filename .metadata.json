@@ -10,5 +10,8 @@
   {
     "package": "tidyseurat",
     "oncran": true
+  },
+  {
+    "package": "tidySummarizedExperiment"
   }
 ]
