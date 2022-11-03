@@ -15,15 +15,15 @@
     "package": "ppcseq"
   },
   {
-    "package": "sccomp"
+    "package": "tidybulk"
   },
   {
-    "package": "tidybulk"
+    "package": "tidySummarizedExperiment"
   },
   {
     "package": "tidySingleCellExperiment"
   },
   {
-    "package": "tidySummarizedExperiment"
+    "package": "sccomp"
   }
 ]
