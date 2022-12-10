@@ -18,10 +18,10 @@
     "package": "tidybulk"
   },
   {
-    "package": "tidySummarizedExperiment"
+    "package": "tidySingleCellExperiment"
   },
   {
-    "package": "tidySingleCellExperiment"
+    "package": "tidySummarizedExperiment"
   },
   {
     "package": "sccomp"
