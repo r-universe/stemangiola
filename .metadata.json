@@ -15,6 +15,9 @@
     "package": "ppcseq"
   },
   {
+    "package": "sccomp"
+  },
+  {
     "package": "tidybulk"
   },
   {
@@ -22,8 +25,5 @@
   },
   {
     "package": "tidySummarizedExperiment"
-  },
-  {
-    "package": "sccomp"
   }
 ]
