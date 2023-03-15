@@ -1,9 +1,19 @@
 [
   {
-    "package": "tidySingleCellExperiment"
+    "package": "ppcseq"
+  },
+  {
+    "package": "sccomp"
+  },
+  {
+    "package": "tidybulk"
   },
   {
     "package": "tidygate",
+    "oncran": true
+  },
+  {
+    "package": "tidyHeatmap",
     "oncran": true
   },
   {
@@ -11,19 +21,9 @@
     "oncran": true
   },
   {
+    "package": "tidySingleCellExperiment"
+  },
+  {
     "package": "tidySummarizedExperiment"
-  },
-  {
-    "package": "tidybulk"
-  },
-  {
-    "package": "ppcseq"
-  },
-  {
-    "package": "sccomp"
-  },
-  {
-    "package": "tidyHeatmap",
-    "oncran": true
   }
 ]
