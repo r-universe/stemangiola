@@ -43,3 +43,8 @@
 	url = https://github.com/stemangiola/tidysummarizedexperiment
 	shallow = true
 	registered = true
+[submodule "ttservice"]
+	path = ttservice
+	url = https://github.com/stemangiola/ttservice
+	shallow = true
+	registered = true

@@ -25,5 +25,9 @@
   },
   {
     "package": "tidySummarizedExperiment"
+  },
+  {
+    "package": "ttservice",
+    "oncran": true
   }
 ]
