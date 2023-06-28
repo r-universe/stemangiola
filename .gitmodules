@@ -1,50 +1,31 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ppcseq"]
 	path = ppcseq
 	url = https://github.com/stemangiola/ppcseq
-	shallow = true
-	registered = true
 [submodule "sccomp"]
 	path = sccomp
 	url = https://github.com/stemangiola/sccomp
-	shallow = true
-	registered = true
 [submodule "tidybulk"]
 	path = tidybulk
 	url = https://github.com/stemangiola/tidybulk
-	shallow = true
-	registered = true
 [submodule "tidygate"]
 	path = tidygate
 	url = https://github.com/stemangiola/tidygate
-	shallow = true
-	registered = true
 [submodule "tidyHeatmap"]
 	path = tidyHeatmap
 	url = https://github.com/stemangiola/tidyheatmap
-	shallow = true
-	registered = true
 [submodule "tidyseurat"]
 	path = tidyseurat
 	url = https://github.com/stemangiola/tidyseurat
-	shallow = true
-	registered = true
 [submodule "tidySingleCellExperiment"]
 	path = tidySingleCellExperiment
 	url = https://github.com/stemangiola/tidysinglecellexperiment
-	shallow = true
-	registered = true
 [submodule "tidySummarizedExperiment"]
 	path = tidySummarizedExperiment
 	url = https://github.com/stemangiola/tidysummarizedexperiment
-	shallow = true
-	registered = true
 [submodule "ttservice"]
 	path = ttservice
 	url = https://github.com/stemangiola/ttservice
-	shallow = true
-	registered = true
