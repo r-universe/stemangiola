@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "CuratedAtlasQueryR"]
+	path = CuratedAtlasQueryR
+	url = https://github.com/stemangiola/curatedatlasqueryr
 [submodule "ppcseq"]
 	path = ppcseq
 	url = https://github.com/stemangiola/ppcseq
