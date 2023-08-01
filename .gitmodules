@@ -11,24 +11,24 @@
 [submodule "sccomp"]
 	path = sccomp
 	url = https://github.com/stemangiola/sccomp
-[submodule "tidybulk"]
-	path = tidybulk
-	url = https://github.com/stemangiola/tidybulk
-[submodule "tidygate"]
-	path = tidygate
-	url = https://github.com/stemangiola/tidygate
 [submodule "tidyHeatmap"]
 	path = tidyHeatmap
 	url = https://github.com/stemangiola/tidyheatmap
-[submodule "tidyseurat"]
-	path = tidyseurat
-	url = https://github.com/stemangiola/tidyseurat
 [submodule "tidySingleCellExperiment"]
 	path = tidySingleCellExperiment
 	url = https://github.com/stemangiola/tidysinglecellexperiment
 [submodule "tidySummarizedExperiment"]
 	path = tidySummarizedExperiment
 	url = https://github.com/stemangiola/tidysummarizedexperiment
+[submodule "tidybulk"]
+	path = tidybulk
+	url = https://github.com/stemangiola/tidybulk
+[submodule "tidygate"]
+	path = tidygate
+	url = https://github.com/stemangiola/tidygate
+[submodule "tidyseurat"]
+	path = tidyseurat
+	url = https://github.com/stemangiola/tidyseurat
 [submodule "ttservice"]
 	path = ttservice
 	url = https://github.com/stemangiola/ttservice
