@@ -5,6 +5,9 @@
 [submodule "tidyHeatmap"]
 	path = tidyHeatmap
 	url = https://github.com/stemangiola/tidyheatmap
+[submodule "tidygate"]
+	path = tidygate
+	url = https://github.com/stemangiola/tidygate
 [submodule "tidyseurat"]
 	path = tidyseurat
 	url = https://github.com/stemangiola/tidyseurat
